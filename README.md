@@ -20,9 +20,13 @@ The key differences are:
 - However the min temperatures show a difference of 8 F, which means in December it can get a way colder than in June
 - The temp. in June have an average of 75 and and in month of December of 71 while both months show a standard deviation between 3 and 4, which means that both month have quite a good temperature averages and don't vary to much
 
+<img width="151" alt="june_temps" src="https://user-images.githubusercontent.com/69826498/197264197-0c9055cc-cfb7-402d-983f-acf8754cf909.png">
+
+<img width="176" alt="dec_temps" src="https://user-images.githubusercontent.com/69826498/197264232-faf80968-e82c-49f1-9460-102325ce4e22.png">
+
 ## Summary
 
-From the analysis of the temperatures in June and December we can recommend that Oahu has a pretty decent weather all year around and in regards the temperatures people are able to surf and enjoy ice cream, whenever they travel to Oahu. However with only looking at the temperatures there can be other factors which we should analysis and consider additionally to avoid negative surprises. 
+From the analysis of the temperatures in June and December we can recommend that Oahu has a pretty decent weather all year around and in regards the temperatures people are able to surf and enjoy ice cream, whenever they travel to Oahu. However there can be other factors which we should analysis and consider additionally to avoid negative surprises. 
 
 Additional queries could be how long it's cold and warm during the days. Wether it's only colder at night and still warm during the days or there a days/ weeks which cold weather all day long. 
 
